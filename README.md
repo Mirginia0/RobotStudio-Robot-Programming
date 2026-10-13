@@ -19,7 +19,7 @@ The station contains three path procedures, targets linked to WorkObjects, and a
 
 ## Project 2 — Sensor-based pick-and-place
 
-<img src="media/images/project-2-station.png" alt="RobotStudio pick-and-place cell with two tables and a gripper" width="600">
+<img src="media/images/project-2-station-4k.png" alt="RobotStudio pick-and-place cell with two tables and a gripper" width="600">
 
 I created a gripper mechanism and a cell with two tables, then programmed the robot to transfer an object between them. The RAPID routine checks the **sensor** input to select the transfer direction, uses **Attach** and **Detach** output pulses for object handling, and returns the robot to its home target after the sequence.
 
